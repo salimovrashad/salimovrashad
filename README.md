@@ -17,4 +17,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salimovrashad&show_icons=true&locale=en&layout=compact" alt="salimovrashad" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salimovrashad&show_icons=true&locale=en" alt="salimovrashad" /></p>
